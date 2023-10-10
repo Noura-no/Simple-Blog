@@ -1,0 +1,42 @@
+body{
+    background-image:linear-gradient(to bottom right ,skyblue,purple);
+}
+#n1 div:first-child{
+    background-color:#E3DFFD;
+    text-align: center;
+    margin: 10px 360px 10px;
+    padding: 5px 10px;
+    color:slateblue;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div:not(:first-child){
+    width: 800px;
+    background-color: white;
+    margin: 10px 350px;
+    padding: 1px 20px 20px;
+    border: solid 1px #7895CB ;
+}
+.n3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    
+}
+.n2{
+    color:skyblue;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 2px;
+}
+.n4{
+    font-family:garamond;
+    font-size: larger;
+    font-variant:small-caps;
+}
+footer{
+    color:#7895CB;
+    text-align: center;
+    font-size: 20px;
+}
+ 
+    
+    
